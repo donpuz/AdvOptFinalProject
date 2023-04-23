@@ -214,7 +214,7 @@ def run(params, results):
 
 n_nodes = 811
 n_pipes = 1123
-n_sensors = 7
+n_sensors = 18
 
 I = [[i for i in range(n_sensors)]]
 
